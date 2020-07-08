@@ -2,14 +2,11 @@
 
 Pygame implementation of an Agent-based Simulation of the spread of a COVID19-like virus in a closed environment with SIR (Susceptible,Infected,Remove) population groups. Options can be find and modified in config.py.
 
+<p>
+</p>
 <div align="center">
 <img src="/Simulation/simulation_gif.gif" />
 </div>
-
-
-![Alt Text](/Simulation/simulation_gif.gif)
-
-
 
 
 --------------------------------
