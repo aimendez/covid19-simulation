@@ -8,6 +8,7 @@ File containg initial conditions of the population and relevant variables that d
 Can be modified to test the evolution of the spread under different conditions. 
 
 **Parameters**
+
   N (*int*): Total population
   I (*int*): Initial number of infected people
 
