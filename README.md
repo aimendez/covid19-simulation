@@ -1,6 +1,8 @@
 # COVID19 Agent-Based Simulation
 
-Pygame implementation of an Agent-based Simulation of the spread of a COVID19-like virus in a closed environment.
+Pygame implementation of an Agent-based Simulation of the spread of a COVID19-like virus in a closed environment. Options can be modified in config.py.
+
+--------------------------------
 
 **config.py**
 
