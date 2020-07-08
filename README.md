@@ -9,16 +9,16 @@ Can be modified to test the evolution of the spread under different conditions.
 
 **Parameters**
 
-  - N (*int*): Total population
+  - **N** (*int*): Total population
   
-  - I (*int*): Initial number of infected people
+  - **I** (*int*): Initial number of infected people
 
-  - TRANS_RATE (*float*): Transmision rate of virus - probability of infecting other people -
+  - **TRANS_RATE** (*float*): Transmision rate of virus - probability of infecting other people -
   
-  - RECOV_RATE (*range float*): Recovery rate - number of iterations until recovery -
+  - **RECOV_RATE (*range float*)**: Recovery rate - number of iterations until recovery -
 
-  - QUARENTINE (*bool*): if True, some of the infected people will be put in quarentine. The chances of being put in quarentine are determined by QUARENTINE_RATE.
+  - **QUARENTINE (*bool*)**: if True, some of the infected people will be put in quarentine. The chances of being put in quarentine are determined by QUARENTINE_RATE.
   
-  - QUARENTINE_RATE (*float*): Probability of being put in quarentine after getting infected.
+  - **QUARENTINE_RATE (*float*)**: Probability of being put in quarentine after getting infected.
   
-  - QUARENTINE_RADIUS (*int*): Radius of the quarentine area. Other people cannot cross this area. 
+  - **QUARENTINE_RADIUS (*int*)**: Radius of the quarentine area. Other people cannot cross this area. 
